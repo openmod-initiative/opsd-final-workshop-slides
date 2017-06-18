@@ -8,7 +8,7 @@
 
 
 
-\documentclass[10pt,aspectratio=169]{beamer}
+\documentclass[12pt,aspectratio=169]{beamer}
 %\usetheme[everytitleformat=uppercase]{m}
 \usetheme[everytitleformat=regular,color/block=transparent]{m}
 \usepackage[absolute,overlay]{textpos}
@@ -39,7 +39,7 @@
 \setbeamerfont{framesource}{size=\tiny}
 
 
-\newcommand{\source}[1]{\begin{textblock*}{4cm}(11.7cm,8.0cm)
+\newcommand{\source}[1]{\begin{textblock*}{5cm}(10.7cm,8.0cm)
     \begin{beamercolorbox}[ht=0.5cm,right]{framesource}
         \usebeamerfont{framesource}\usebeamercolor[fg]{framesource} Source: {#1}
     \end{beamercolorbox}
@@ -65,10 +65,10 @@
 }
 %\subtitle{---}
 \author{
-  \emph{Tom Brown, The Open Energy Modelling Community}
+  \emph{Tom Brown, Robbie Morrison, The Open Energy Modelling Community}
 }
 
-\date{\vspace{0.5cm}Open Power System Data Workshop, Berlin, 10th July 2017}
+\date{\vspace{0.5cm}Open Power System Data 4th Workshop, DIW Berlin, 10th July 2017}
 
 
 \titlegraphic{%
@@ -103,7 +103,7 @@
   \frametitle{what is open modelling?}
 
   \centering
-  \includegraphics[width=12.5cm]{open-modeling-chain}
+  \includegraphics[width=12cm]{open-modeling-chain}
 
   \source{Robbie Morrison, Eva Schmid, CC 4.0 BY}
 \end{frame}
@@ -125,6 +125,122 @@
   \end{itemize}
   \end{frame}
 
+
+
+
+\begin{frame}
+  \frametitle{what open models are there?}
+
+  Since 2001: zero to {\bf +48} projects and more coming
+
+  {\bf Electricity and energy system models:}
+  \begin{itemize}
+  \item first wave ({\bf 3}): 2001 balmoral, 2004 deeco, 2005 GnuAE
+  \item second wave ({\bf +3}): 2010 OSeMOSYS, 2012 TEMOA, NEMO
+   \item  as of 2017 ({\bf +25}): Calliope, CREST, DESSTinEE, DIETER, Dispa-SET, Einstein,
+  EMLab-Generation, EMMA, Energy Transition Model, EnergyPATHWAYS,
+  ETEM, ficus, GENESYS, NEMO, oemof, OnSSET, pandapower, PowerMatcher,
+  PyPSA, renpass, SIREN, StELMOD, SWITCH, URBS, WWS project
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{what open models are there?}
+
+  {\bf Transmission and distribution grid models:}
+  \begin{itemize}
+    \item as of 2017 ({\bf 8}): DINGO, GridKit, GridLAB-D, Hutcheon and Bialek dataset,
+  OpenDSS, OpenGridMap, osmTGmod, SciGRID
+  \end{itemize}
+
+  {\bf Energy database projects:}
+  \begin{itemize}
+  \item first wave (4): 2004 OpenStreetMap, 2009 OpenEI, 2011 Enipedia, 2011 reegle
+  \item as of 2017 (+6): Energy Research Data Portal for South Africa, energydata.info,
+  oedb, Open Power System Data, OpenGridMap, Renewables.ninja
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{what is the openmod initiative?}
+
+  The openmod initiative consists of a public \alert{\href{https://groups.google.com/forum/\#!forum/openmod-initiative}{mailing list}} (300+ participants) \dots
+
+  \centering
+  \includegraphics[width=12cm]{openmod-mailing_list}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{what is the openmod initiative?}
+
+  \dots an internet \alert{\href{https://forum.openmod-initiative.org/}{forum}} for more intense discussions, Q \& A and planning \dots
+
+  \centering
+  \includegraphics[width=12cm]{openmod-forum}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{what is the openmod initiative?}
+
+  \dots a collaborative \alert{\href{https://wiki.openmod-initiative.org/}{wiki}} for collecting information on models and data \dots
+
+  \centering
+  \includegraphics[width=12cm]{openmod-wiki}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{what is the openmod initiative?}
+
+  \dots and finally a \alert{\href{https://wiki.openmod-initiative.org/wiki/Open_Energy_Modelling_Workshop_-_Munich_2017}{workshop}} every six months for two-three days.
+
+  Next Workshop: Technical University of Munich, 11th - 13th October 2017
+
+  Includes:
+
+  \begin{itemize}
+  \item  tutorials on open models and tools
+  \item open model presentations
+  \item breakout  groups on every possible topic
+  \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{what is the openmod initiative currently doing?}
+
+  The following \alert{issues} are currently being tackled by
+  openmod members:
+  \begin{itemize}
+  \item   good practice in open source projects
+  \item barriers to developing open source projects
+  \item helping data owners understand the consequences of openness
+  \item energy data and metadata standards
+  \item energy model classification and cataloguing
+  \item open/free/libre software and data licensing
+  \item    better research computing skills
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \frametitle{want to join the openmod initiative?}
+
+  There is no application process or membership fee. Simply \dots
+  \begin{itemize}
+  \item \dots join the \alert{\href{https://groups.google.com/forum/\#!forum/openmod-initiative}{mailing list}}
+  \item \dots join the online \alert{\href{https://forum.openmod-initiative.org/}{forum}}
+  \item \dots check out the \alert{\href{http://openmod-initiative.org/}{website}}
+  \item \dots come to the next \alert{\href{https://wiki.openmod-initiative.org/wiki/Open_Energy_Modelling_Workshop_-_Munich_2017}{workshop}}: 11th-13th October 2017,
+    Technical University of Munich
+  \end{itemize}
+
+\end{frame}
 \begin{frame}{Copyright}
 
 
