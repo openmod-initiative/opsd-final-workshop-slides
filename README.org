@@ -9,3 +9,10 @@ Compiled PDF of slides: [[https://forum.openmod-initiative.org/uploads/default/o
 
 To give feedback, leave a comment on the related [[https://forum.openmod-initiative.org/t/presentation-at-open-power-system-data-workshop-in-july-2017/][openmod forum topic]],
 make a pull request or drop a line to Tom Brown.
+
+
+** Licence
+
+Copyright Tom Brown, Robbie Morrison, 2017
+
+Released under a [[http://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0 International Licence]].
