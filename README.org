@@ -1,7 +1,7 @@
 
 * Slides for presentation about Open Energy Modelling Initiative at Open Power System Data Final Workshop 10.07.2017
 
-These slides are for a 10-minute talk to be given by Tom Brown about
+These slides are for a 10-minute talk by Tom Brown about
 the [[http://openmod-initiative.org/][Open Energy Modelling Initiative]] at the [[http://open-power-system-data.org/][Open Power System Data]]
 project [[http://open-power-system-data.org/workshop-4][4th and Final Workshop]] on 10th July 2017.
 
