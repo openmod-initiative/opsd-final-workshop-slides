@@ -5,7 +5,7 @@ These slides are for a 10-minute talk by Tom Brown about
 the [[http://openmod-initiative.org/][Open Energy Modelling Initiative]] at the [[http://open-power-system-data.org/][Open Power System Data]]
 project [[http://open-power-system-data.org/workshop-4][4th and Final Workshop]] on 10th July 2017.
 
-Compiled PDF of slides: [[https://forum.openmod-initiative.org/uploads/default/original/1X/43ae583fcb84ef4351a2b02643e290014a50379c.pdf][openmod-opsd-170710.pdf]].
+Compiled PDF of slides: [[https://forum.openmod-initiative.org/uploads/default/original/1X/54e034765c7ef44adfe1e30d96261c67de696219.pdf][openmod-opsd-170710.pdf]].
 
 To give feedback, leave a comment on the related [[https://forum.openmod-initiative.org/t/presentation-at-open-power-system-data-workshop-in-july-2017/][openmod forum topic]],
 make a pull request or drop a line to Tom Brown.
