@@ -1,0 +1,58 @@
+
+These are Tom Brown's speaking notes for each slide.
+
+
+* title
+
+openmod = short for ...
+
+* overview
+
+grass roots = not controlled or funded by any institution or government grant, all voluntary
+
+all continents except Antartica
+
+who's heard of it? who's a member?
+
+nearly 3 years old
+
+first members on mailing list: 3.10.2014
+
+
+* what is open modelling?
+
+
+FSF four freedoms:
+
+https://www.gnu.org/philosophy/free-sw.en.html
+
+Freedom -1 from Tom? Openly availability, e.g. online
+
+The freedom to run the program as you wish, for any purpose (freedom 0).
+The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+The freedom to redistribute copies so you can help your neighbor (freedom 2).
+The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+* why open modelling?
+
+one institution says one thing, one another; without seeing model code and data, impossible to resolve the difference
+
+"most models and data relied upon by utilities, consultancies and
+public research institutes remain inscrutable `black boxes'"
+
+billions of euros of investment depends on decisions, stakes high, not to mention the climate
+
+quality: people can find mistakes and improve research results; auditing; others can learn from well-structured code with good methodology etc.
+
+improve public confidence in results
+
+improves your visibility and citations
+
+
+every PhD student repeating the same tedious data collection exercise, how many have cleaned power plant data sets?
+
+easier to collaborate when everyone is using same open model, no need for NDAs with data, etc.
+
+why now? partially general movement for open science; also because of transformation and increasing complexity of energy system (renewables, decentralisation, liberalisation, sector coupling, active consumers), which makes transparency more important
+
+uncertainty in outcome for energy system over next 40 years requires transparency
